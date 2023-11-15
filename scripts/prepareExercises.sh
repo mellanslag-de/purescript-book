@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+cd#!/usr/bin/env bash
 
 # This script removes meta information that is not intended for readers of the book
 
